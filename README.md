@@ -2,16 +2,16 @@
 A game made using Adobe Flash CC.
 Includes database and multiplayer management usung PLAYER.IO
 
-LOADING SCREEN (Facebook API used.
+#LOADING SCREEN (Facebook API used).
 
 <img src="doc/n1.png" alt="resize()" style="max-width:100%;">
-PLAY
+#PLAY
 
 <img src="doc/n2.png" alt="resize()" style="max-width:100%;">
-INVENTORY
+#INVENTORY
 
 <img src="doc/n3.png" alt="resize()" style="max-width:100%;">
-DAILY SCRATCH
+#DAILY SCRATCH
 
-<img src="doc/n4.png" alt="resize()" style="max-width:100%;">
+<img src="doc/n.png" alt="resize()" style="max-width:100%;">
 AND MUCH MORE!!!
