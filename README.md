@@ -1,6 +1,6 @@
 # RACE-THE-SUN
 A game made using Adobe Flash CC.
-Includes database and multiplayer management usung PLAYER.IO
+Includes database and multiplayer management using PLAYER.IO
 
 # LOADING SCREEN (Facebook API used).
 
