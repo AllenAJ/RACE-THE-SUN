@@ -6,9 +6,30 @@ Includes database and multiplayer management using PLAYER.IO
 
 <img src="doc/n1.png" alt="resize()" style="max-width:100%;">
 
+# MENU
+
+<img src="doc/n4.png" alt="resize()" style="max-width:100%;">
+
 # PLAY
 
 <img src="doc/n2.png" alt="resize()" style="max-width:100%;">
+
+# SHOP
+
+<img src="doc/n6.png" alt="resize()" style="max-width:100%;">
+
+# LEADERBOARD
+
+<img src="doc/n7.png" alt="resize()" style="max-width:100%;">
+
+# MEDALS
+
+<img src="doc/n8.png" alt="resize()" style="max-width:100%;">
+
+# MARKETPLACE (TRADE ITEMS HERE)
+
+<img src="doc/n5.png" alt="resize()" style="max-width:100%;">
+
 
 # INVENTORY
 
