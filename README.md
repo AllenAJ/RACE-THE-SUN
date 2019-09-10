@@ -1,3 +1,5 @@
+NOTE: Due to the size of the files, i had to upload them in compressed RAR files.
+
 # RACE-THE-SUN
 A really high-end game made using Adobe Flash CC.
 Includes database and multiplayer management using PLAYER.IO
