@@ -1,4 +1,4 @@
-NOTE: Due to the size of the files, i had to upload them in compressed RAR files.
+NOTE: Due to the size of the files, i had to upload them as compressed RAR files.
 
 # RACE-THE-SUN
 A really high-end game made using Adobe Flash CC.
